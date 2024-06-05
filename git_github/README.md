@@ -1,4 +1,4 @@
-#Curso digital: Git
+# Curso digital: Git
 
 ## Salvando updates no git
 

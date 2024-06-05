@@ -3,3 +3,5 @@
 ## Salvando updates no git
 
 ## Teste novo
+. git push
+. git pull
